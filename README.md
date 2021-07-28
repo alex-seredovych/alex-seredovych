@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A highly motivated Software Engineer</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Algorithms, Data Modelingg**
+- 🌱 I’m currently learning **Machine Learning, Algorithms, Data Modeling**
 
 - 👨‍💻 Know about my experiences [alex-seredovych.me](alex-seredovych.me)
 
